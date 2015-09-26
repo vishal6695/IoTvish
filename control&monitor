@@ -1,0 +1,112 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="base.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body>
+<div id="header-wrapper">
+<div id="header" class="container">
+<div id="logo">
+<span class="icon icon-cog"></span>
+<h2><a href="#">SMART ENERGY SAVING SYSTEM</a></h2>
+</div>
+
+
+ 
+<div id="menu">
+<ul>
+<li ><a href="index.html" accesskey="1" title="">Homepage</a></li>
+<li class="active" ><a href="Control&Monitor.html" accesskey="2" title="">Control&Monitor</a></li>
+</ul>
+</div>
+</div>
+</div>
+<center>
+<div class="wrapper">
+<div id="banner" class="container"></div>
+<div id="wrapper">
+<div id="main">
+<div class="container">
+<div class="settings">
+<div class="row">
+<div class="question">
+
+Room 1
+</div>
+<div class="switch">
+<input id="cmn-toggle-3" class="cmn-toggle cmn-toggle-round" type="checkbox">
+<label for="cmn-toggle-3"></label>
+</div>
+</div><!-- /row -->
+<div class="row">
+<div class="question">
+
+Room 2
+</div>
+<div class="switch">
+<input id="cmn-toggle-6" class="cmn-toggle cmn-toggle-round-flat" type="checkbox">
+<label for="cmn-toggle-6"></label>
+</div>
+</div><!-- /row -->
+<div class="row">
+<div class="question">
+
+Room 3
+</div>
+<div class="switch">
+<input id="cmn-toggle-9" class="cmn-toggle cmn-toggle-yes-no" type="checkbox">
+<label for="cmn-toggle-9" data-on="ON" data-off="OFF"></label>
+</div>
+</div><!-- /row -->
+<div class="row">
+<div class="question">
+
+Room 4
+</div>
+<div class="switch">
+<input id="cmn-toggle-2" class="cmn-toggle cmn-toggle-round2" type="checkbox">
+<label for="cmn-toggle-2"></label>
+</div>
+</div><!-- /row -->
+<div class="row">
+<div class="question">
+
+Room 5
+</div>
+<div class="switch">
+<input id="cmn-toggle-4" class="cmn-toggle cmn-toggle-round-flat4" type="checkbox">
+<label for="cmn-toggle-4"></label>
+</div>
+</div><!-- /row -->
+<div class="row">
+<div class="question">
+
+Room 6
+</div>
+<div class="switch">
+<input id="cmn-toggle-8" class="cmn-toggle cmn-toggle-yes-no8" type="checkbox">
+<label for="cmn-toggle-8" data-on="ON" data-off="OFF"></label>
+</div>
+</div><!-- /row -->
+
+
+
+
+
+
+</div>
+</div>
+</div><!-- #main -->
+</div>
+</center>
+</body>
+</html>
